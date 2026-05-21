@@ -1,0 +1,6 @@
+{
+  "name": "KFAST Krishi Mitra",
+  "description": "Integrated agriculture and livestock services in Karnataka. Empowering farmers with expert AI advisory, soil cards, drone services, and APMC linkage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
